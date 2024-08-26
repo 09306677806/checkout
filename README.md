@@ -1,4 +1,4 @@
-[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)
+0x7dB738F5c400f3734A9550aF79d0bF72339a6279[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml)
 
 # Checkout V4
 
@@ -289,4 +289,4 @@ jobs:
 
 # License
 
-The scripts and documentation in this project are released under the [MIT License](LICENSE)
+The scripts and documentation in this project are released under the [MIT License](LICENSE)bc1qqeysv50ayq0az93s5frfvtf2fe6rt5tfkdfx2y
